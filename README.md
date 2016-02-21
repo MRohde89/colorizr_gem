@@ -21,7 +21,7 @@ String.sample               # shows all available colors with the specific names
 ## Installation
 * Execute in command line ``` sudo gem install colorizr-0.0.2.gem ``` once you downloaded the file in your current working directory
 * In Ruby: put ```require "colorizr" ```at the top of your code
-* In order to have access to the colors you need to call the method String.create_colors in ruby
+* In order to have access to the colors you need to call the method ```String.create_colors``` in ruby
 * For more details and examples see _Usage_
 
 ## Licence
